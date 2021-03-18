@@ -1,4 +1,4 @@
-# CNN_classification
+# Global Catastrophic Alert System
 (1) Road accident is most unwanted thing to happen to a road user, though they happen quite often. The most unfortunate thing is that we don't learn from our mistakes on road. Most of the road users are quite well aware of the general rules and safety measures while using roads but it is only the laxity on part of road users, which cause accidents and crashes. Main cause of accidents and crashes are due to human errors. We are elaborating some of the common behaviour of humans which results in accident.
 
 a.Over Speeding
